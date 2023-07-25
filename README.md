@@ -38,6 +38,7 @@ So, if you want to say hi, I'll be happy to meet you more!
   <a href="https://www.youtube.com/channel/UCnlBjBveYx-X7uOMigo3Ukw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
+![snake gif](https://github.com/printdaniela/printdaniela/blob/output/github-contribution-grid-snake.svg)
 <!--
 **printdaniela/printdaniela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
