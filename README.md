@@ -4,10 +4,7 @@ I used to work as a Marine Biologist specialized in coastal environments managem
 Through this pursuit, I aim to fuse the skills and experiences I have garnered thus far and utilize digital technology tools to support historically marginalized groups - such as black women from peripheral areas communities in Brazil, to which I proudly came from.
 I believe in the construction of Afrofuturistic paradigms in technology, where (yet) underrepresented groups will have equity in decision-making spaces. 
 
-
-<font color="green"> 
-  "_We are not saying that new technologies are like humans. However, they replicate (and in some cases, are capable of developing their own intelligence for it) behaviors that their creators program._"
-</font> 
+"_We are not saying that new technologies are like humans. However, they replicate (and in some cases, are capable of developing their own intelligence for it) behaviors that their creators program._"
 (unknown) 
 
 I love connecting with different people who are committed with antiracist acts and diversity purposes.
