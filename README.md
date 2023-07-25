@@ -10,11 +10,11 @@ I believe in the construction of Afrofuturistic paradigms in technology, where (
 I love connecting with different people who are committed with antiracist acts and diversity purposes.
 So, if you want to say hi, I'll be happy to meet you more! 
 
- ## ![Dani's GitHub stats](
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=printdaniela&show_icons=true&theme=highcontrast">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=printdaniela&layout=compact&langs_count=7&theme=highcontrast">
+ ## 
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=printdaniela&show_icons=true&theme=highcontrast">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=printdaniela&layout=compact&langs_count=7&theme=highcontrast">
+</div>
 
  ##
 
