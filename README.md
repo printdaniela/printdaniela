@@ -5,8 +5,10 @@ Through this pursuit, I aim to fuse the skills and experiences I have garnered t
 I believe in the construction of Afrofuturistic paradigms in technology, where (yet) underrepresented groups will have equity in decision-making spaces. 
 
 
-<font color="green"> "_We are not saying that new technologies are like humans. However, they replicate (and in some cases, are capable of developing their own intelligence for it) behaviors that their creators program._"
-</font> (unknown) 
+<font color="green"> 
+  "_We are not saying that new technologies are like humans. However, they replicate (and in some cases, are capable of developing their own intelligence for it) behaviors that their creators program._"
+</font> 
+(unknown) 
 
 I love connecting with different people who are committed with antiracist acts and diversity purposes.
 So, if you want to say hi, I'll be happy to meet you more! 
