@@ -1,25 +1,25 @@
-name: Generate Datas
+name: Snake Game
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  push:
+    branches:
+      - main 
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name:  ${{ github.printdaniela }}
-          svg_out_path: dist/github-snake.svg
 
-      - uses: Platane/snk@v3.0.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game
+        uses: thedave42/snake-generate@master
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Generate Snake Game" --allow-empty
+          git push
+
